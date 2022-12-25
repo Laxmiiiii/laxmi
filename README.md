@@ -323,7 +323,7 @@
                 </form>
             </div>
         </div>
-        <div class="footer" id="footer">
+      <!-- <div class="footer" id="footer">
             <div class="footer-title">
                 <h2>K Laxmi</h2>
                 <div class="social-sites">
@@ -348,7 +348,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>-->
 
 
 
