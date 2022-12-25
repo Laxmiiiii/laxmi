@@ -3,8 +3,8 @@
 
 <head>
     <title>Portfolio Website</title>
-    <link rel="stylesheet" href="portfolio.css" />
-   <!--<link
+    <!--<link rel="stylesheet" href="portfolio.css" />
+   <link
         href="https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Mulish:wght@300;400;600;700;800&display=swap"
         rel="stylesheet" />
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
